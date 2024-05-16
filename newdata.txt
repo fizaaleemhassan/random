@@ -1,0 +1,95 @@
+Mechatronics Department Data
+Professor 1: Sir Anas Bin Aqeel
+• Office Location: Ground Floor, 2nd room on the left side of reception.
+• Sir anas is a professor at the Mechatronics Department.
+• Sir anas bin aqeel is a professor at the Mechatronics Department.
+• Office Phone Number: 051-5444-4434
+• Email: anas.aqeel@ceme.nust.edu.pk
+• Mobile Number: 0321-4755662
+• Appointment Instructions: Schedule through the university's App via the tablet
+• Working Hours: 8:45 am to 4:30 pm
+• Before 8:45 am: Not available
+• After 4:30 pm: Not available
+Weekly Schedule:
+Day Time Activity
+Monday 8:45 am - 11:25 am Fluid Mechanics Lab (42-MTS)
+11:30 am - 12:20 pm Department Meeting
+1:15 pm - 2:00 pm Lunch Break
+2:00 pm - 3:40 pm Available
+3:40 pm - 4:30 pm Community Service-Learning Class
+Tuesday 8:45 am - 1:15 pm Robot Maker Lab
+1:15 pm - 2:00 pm Lunch Break
+2:00 pm - 4:30 pm Available
+Wednesday 8:45 am - 10:30 am Available
+10:35 am - 1:15 pm Office Work
+1:15 pm - 2:00 pm Lunch Break
+2:00 pm - 3:40 pm Fluid Mechanics Lab (42-MTS-A-Class Room MTS-01)
+3:40 pm - 4:30 pm Available
+Thursday 8:45 am - 11:25 am Fluid Mechanics Lab (42-MTS)
+11:30 am - 1:15 pm Robot Maker Lab
+1:15 pm - 2:00 pm Lunch Break
+Day Time Activity
+2:00 pm - 3:40 pm Fluid Mechanics Lab (42-MTS-B-Class Room MTS-01)
+3:40 pm - 4:30 pm Community Service-Learning Class
+Friday 8:45 am - 10:30 am Office Work
+10:35 am - 1:15 pm FYP Meeting
+1:15 pm - 2:00 pm Lunch Break
+2:00 pm - 3:40 pm Fluid Mechanics Lab (42-MTS-A-Class Room MTS-01)
+3:40 pm - 4:30 pm Available
+Saturday 8:45 am - 10:30 am Not Available because its weekend (Contact via email for urgent matters)
+10:35 am - 1:15 pm Not Available because its weekend (Contact via email for urgent matters)
+1:15 pm - 2:00 pm Not Available because its weekend (Contact via email for urgent matters)
+2:00 pm - 4:30 pm Not Available because its weekend (Contact via email for urgent matters)
+Sunday 8:45 am - 10:30 am Not Available because its weekend (Contact via email for urgent matters)
+10:35 am - 1:15 pm Not Available because its weekend (Contact via email for urgent matters)
+1:15 pm - 2:00 pm Not Available because its weekend (Contact via email for urgent matters)
+2:00 pm - 3:40 pm Not Available because its weekend (Contact via email for urgent matters)
+3:40 pm - 4:30 pm Not Available because its weekend (Contact via email for urgent matters)
+
+
+Professor 2: Sir Usman Asad
+• Office Location: First Floor, 1st room on the left side of reception.
+• Sir usman is a professor at the Mechatronics Department.
+• Sir usman asad is a professor at the Mechatronics Department.
+• Office Phone Number: 051-5444-4432
+• Email: usmanasad@ceme.nust.edu.pk
+• Mobile Number: 0321-4755663
+• Appointment Instructions: Schedule through the university's App via the tablet
+• Working Hours: 8:45 am to 4:30 pm
+• Before 8:45 am: Not available
+• After 4:30 pm: Not available
+Weekly Schedule:
+Day Time Activity
+Monday 8:45 am - 1:15 pm Robot Maker Lab
+1:15 pm - 2:00 pm Lunch Break
+Day Time Activity
+2:00 pm - 4:30 pm Available
+Tuesday 8:45 am - 11:25 am Fluid Mechanics Lab (42-MTS)
+11:30 am - 12:20 pm Department Meeting
+1:15 pm - 2:00 pm Lunch Break
+2:00 pm - 3:40 pm Available
+3:40 pm - 4:30 pm Community Service-Learning Class
+Wednesday 8:45 am - 11:25 am Fluid Mechanics Lab (42-MTS)
+11:30 am - 1:15 pm Robot Maker Lab
+1:15 pm - 2:00 pm Lunch Break
+2:00 pm - 3:40 pm Fluid Mechanics Lab (42-MTS-B-Class Room MTS-01)
+3:40 pm - 4:30 pm Community Service-Learning Class
+Thursday 8:45 am - 10:30 am Office Work
+10:35 am - 1:15 pm FYP Meeting
+1:15 pm - 2:00 pm Lunch Break
+2:00 pm - 3:40 pm Fluid Mechanics Lab (42-MTS-A-Class Room MTS-01)
+3:40 pm - 4:30 pm Available
+Friday 8:45 am - 10:30 am Available
+10:35 am - 1:15 pm Office Work
+1:15 pm - 2:00 pm Lunch Break
+2:00 pm - 3:40 pm Fluid Mechanics Lab (42-MTS-A-Class Room MTS-01)
+3:40 pm - 4:30 pm Available
+Saturday 8:45 am - 10:30 am Not Available because its weekend (Contact via email for urgent matters)
+10:35 am - 1:15 pm Not Available because its weekend (Contact via email for urgent matters)
+1:15 pm - 2:00 pm Not Available because its weekend (Contact via email for urgent matters)
+2:00 pm - 4:30 pm Not Available because its weekend (Contact via email for urgent matters)
+Sunday 8:45 am - 10:30 am Not Available because its weekend (Contact via email for urgent matters)
+10:35 am - 1:15 pm Not Available because its weekend (Contact via email for urgent matters)
+1:15 pm - 2:00 pm Not Available because its weekend (Contact via email for urgent matters)
+2:00 pm - 3:40 pm Not Available because its weekend (Contact via email for urgent matters)
+3:40 pm - 4:30 pm Not Available because its weekend (Contact via email for urgent matters)
